@@ -15,11 +15,11 @@ from flask_sqlalchemy import SQLAlchemy
 app=Flask(__name__)
 
 #psy
-connection = psycopg2.connect(user="situma",
-                                  password="!abojani3000",
-                                  host="82.165.23.225",
-                                  port="5432",
-                                  database="db_sms_server")
+connection = psycopg2.connect(user=" ",
+                                  password=" ",
+                                  host=" ",
+                                  port=" ",
+                                  database=" ")
 
 
 
